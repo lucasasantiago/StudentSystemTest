@@ -1,0 +1,148 @@
+/* ============================= */
+/*           GENERAL             */
+/* ============================= */
+
+
+.vam{
+	padding-top: 10px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.confirm-message{
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.confirm-element{
+	font-size: 12pt;
+	font-weight: bold;
+	color: DarkBlue;
+}
+
+.confirm-delete{
+	font-size: 12pt;
+	font-weight: bold;
+	color: DarkRed;
+}
+
+.login-help{
+	color: red;
+}
+
+.wrongCredentials{
+	padding-top: 20px;
+}
+
+/* ============================= */
+/*            HEADER             */
+/* ============================= */
+
+header{
+	background: black;
+	color: #fff;
+	height: 50px;
+}
+
+.left-header{
+	padding-top: 5px;
+	font-size: 20pt;
+}
+
+.right-header{
+	padding-top: 5px;
+	text-align: right;
+}
+
+.left-header-link{
+	color: #999;
+	font-size: 18pt;
+}
+
+.left-header-link:hover{
+	color: #fff;
+}
+
+.left-header-link:visited{
+	text-decoration: none;
+}
+
+.left-header-admin{
+	padding-top: 5px;
+	font-size: 20pt;
+}
+
+.right-header-admin{
+	padding-top: 8px;
+	text-align: right;
+}
+
+
+/* ============================= */
+/*             BODY              */
+/* ============================= */
+
+
+section{
+	padding-top: 100px;
+}
+
+.section-admin{
+	padding-top: 20px;
+}
+
+.article1{
+	text-align: center;
+}
+
+.article2{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+.article3{
+	text-align: center;
+}
+
+.article2-login{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background: #ddd;
+	text-align: center;
+}
+
+.article1-admin{
+	text-align: center;
+	padding-top: 125px;
+	padding-bottom: 10px;
+}
+
+.article2-admin{
+	padding-top: 0px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+table{
+	text-align: left;
+}
+
+/* ============================= */
+/*            FOOTER             */
+/* ============================= */
+
+.footer{
+	position: fixed;
+	bottom: 0;
+  	width: 100%;
+	text-align: center;
+	background: #ddd;
+	color: #000;
+	height: 50px;
+	padding-top: 10px;
+	font-weight: bold;
+}
+
